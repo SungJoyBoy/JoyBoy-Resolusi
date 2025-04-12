@@ -1,3 +1,4 @@
 Rencana 
 - Mendownload OS linux
+* Menggunakan Dual Boot
 - Belajar Hacking
