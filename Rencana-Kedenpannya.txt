@@ -3,5 +3,5 @@ Rencana
 * Menggunakan Dual Boot
 - Belajar Hacking
 - Belajar Membuat Game
- * game Moba
+ * game 2D Pixel
  * game fps
