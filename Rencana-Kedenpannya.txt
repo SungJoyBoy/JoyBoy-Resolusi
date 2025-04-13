@@ -4,3 +4,4 @@ Rencana
 - Belajar Hacking
 - Belajar Membuat Game
  * game 2D Pixel
+ * game fps
