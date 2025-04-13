@@ -2,3 +2,6 @@ Rencana
 - Mendownload OS linux
 * Menggunakan Dual Boot
 - Belajar Hacking
+- Belajar Membuat Game
+ * game Moba
+ * game fps
